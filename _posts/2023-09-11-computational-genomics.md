@@ -26,3 +26,11 @@ Scientists use special technology to read the DNA instructions in the genome. Th
 
 Gene is a specific segment of DNA that contains the instructions for making particular protein or performing specific function within an organism. Think of a gene as a distinct chapter of instruction manual. Genes determine various characteristics of an organism, such as its physical feature, behavior and all.
 The control and activation of genes play a vital role in determining every aspect of an organism's identity, development, responses to the environment and overall behaviour. For example, a liver cell is determined by the unique combination of genes that are tuned on and active within that cell. and when certain genes are activated, they produce the functional molecules needed for that cell to carry its specialized tasks, such as detoxifying substances or producing enzymes for digestion in case of liver cell.
+
+### The Central Dogma
+
+All cells have a set of instructions for how they should work. These  set of instructions is stored on molecule called DNA and to create a new cells, cells need to make a copies of this instruction. 
+
+These instructions in DNA are organized into units called gene. When a cell needs to use a particular gene, it activates it. When a gene is activated, it creates a temporary copy of the gene's instructions in a molecule called messenger RNA (mRNA) and mRNA molecule then travels to the cytoplasm. Here, ribosomes read the mRNA and follow its instructions to put together the amino acids in the right order. This results in the creation of a specific protein.
+
+This whole process of going from DNA to mRNA to protein is like the central dogma of molecular biology. It's a way cell transfer information from DNA to proteins. Proteins are like the key ingredients. they do everything in the cell, from building structure to carring out chemical reactions.
