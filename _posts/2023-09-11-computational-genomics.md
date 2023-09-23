@@ -14,7 +14,7 @@ As the initial cell grows and matures, it undergoes a process known as __cell di
 
 These newly generated cell has full set of DNA instruction. However, not all the instructions in DNA are used by every cell. Different cells use different parts of DNA to perform their specific functions and tasks. For instance, skin cells use specific parts of DNA to create proteins that contribute to skin structure and protection, while nerve cells uses different DNA segments to produce neurotransmitters for transmitting signals between cells.
 
-### Getting Familiar with the Terms: Genes, DNA and Central Dogma
+## Getting Familiar with the Terms: Genes, DNA and Central Dogma
 
 ### Gene & Genome
 
@@ -29,8 +29,11 @@ The control and activation of genes play a vital role in determining every aspec
 
 ### The Central Dogma
 
-All cells have a set of instructions for how they should work. These  set of instructions is stored on molecule called DNA and to create a new cells, cells need to make a copies of this instruction. 
+As we know all cells have a set of instructions for how they should work. These set of instructions is stored on molecule called DNA. Inorder to create a new cell, cell need to make a copies of this instructions.
 
-These instructions in DNA are organized into units called gene. When a cell needs to use a particular gene, it activates it. When a gene is activated, it creates a temporary copy of the gene's instructions in a molecule called messenger RNA (mRNA) and mRNA molecule then travels to the cytoplasm. Here, ribosomes read the mRNA and follow its instructions to put together the amino acids in the right order. This results in the creation of a specific protein.
+These instructions in DNA are organized into units called gene, assume gene as a unit of that instruction manual mentioned earlier. When a cell needs to use a particular gene, it activates it. When a gene is activated, it creates a temporary copy of the gene's instructions in a molecule called messenger RNA (mRNA) and mRNA molecule then travels to the cytoplasm. Here, ribosomes read the mRNA and follow its instructions to put together the amino acids in the right order.This results in the creation of a specific protein.
 
-This whole process of going from DNA to mRNA to protein is like the central dogma of molecular biology. It's a way cell transfer information from DNA to proteins. Proteins are like the key ingredients. they do everything in the cell, from building structure to carring out chemical reactions.
+For the clear understanding:
+
+
+This whole process of going from DNA to mRNA to protein is like the central dogma of molecular biology. It's a way cell transfer information from DNA to proteins. Proteins are like the key ingredients.They do everything in the cell, from building structure to carring out chemical reactions.
