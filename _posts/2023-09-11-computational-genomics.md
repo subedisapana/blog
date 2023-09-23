@@ -35,5 +35,8 @@ These instructions in DNA are organized into units called gene, assume gene as a
 
 For the clear understanding:
 
+![Desktop View](/assets/img/central_dogma.jpg){: width="972" height="589" }
+_Genome, Gene, and Central Dogma_
+
 
 This whole process of going from DNA to mRNA to protein is like the central dogma of molecular biology. It's a way cell transfer information from DNA to proteins. Proteins are like the key ingredients.They do everything in the cell, from building structure to carring out chemical reactions.
