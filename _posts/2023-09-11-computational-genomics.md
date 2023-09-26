@@ -1,7 +1,7 @@
 ---
 title: Decoding Life's Digital Blueprint (@1)
 date: 2023-09-11 10:49:00 +0545
-categories: [R, Introduction]
+categories: [Introduction, Genomics]
 tags: [Computational Genomics]
 
 ---
@@ -39,4 +39,4 @@ For the clear understanding:
 _Genome, Gene, and Central Dogma_
 
 
-This whole process of going from DNA to mRNA to protein is like the central dogma of molecular biology. It's a way cell transfer information from DNA to proteins. Proteins are like the key ingredients.They do everything in the cell, from building structure to carring out chemical reactions.
+This whole process of going from DNA to mRNA to protein is like the central dogma of molecular biology. It's a way cell transfer information from DNA to proteins. Proteins are like the key ingredients. They do everything in the cell, from building structure to carring out chemical reactions.
