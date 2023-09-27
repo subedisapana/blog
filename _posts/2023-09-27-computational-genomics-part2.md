@@ -1,7 +1,7 @@
 ---
 title: Decoding Life's Digital Blueprint (@2)
 date: 2023-09-27 08:52:00 +0545
-categories: [Genomics]
+categories: [Genomics, Part2]
 tags: [Computational Genomics]
 
 ---
