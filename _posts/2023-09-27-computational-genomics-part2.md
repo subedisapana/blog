@@ -16,7 +16,7 @@ Genome : Genome is like the entire DNA instruction manual for an organism. Human
 
 In most of our body's cells, you can find DNA, which is full of instructions to make proteins and these proteins are crucial for cells and our body to function well. Genes are like smaller sections in the manual that tells our cells how to make these proteins.
 
-__Here's the trick__: Not all the instructions in the manual/DNA aare needed all the time. For example, a liver cell only uses the parts of the manual (gene) that help it grow and do liver stuff, and heart cell uses different parts for its job and the rest of the  genes are repressed or turned off.
+__Here's the trick__: Not all the instructions in the manual/DNA are needed all the time. For example, a liver cell only uses the parts of the manual (gene) that help it grow and do liver stuff, and heart cell uses different parts for its job and the rest of the  genes are repressed or turned off.
 
 ## How genes are turned off?
 
